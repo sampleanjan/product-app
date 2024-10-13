@@ -43,9 +43,7 @@ public class Product {
 		this.price = price;
 	}
 	
-	public Product() {
-		
-	}
+	
 	public Product(String string, String string2, int i) {
 		this.name = string;
 		this.description = string2;
